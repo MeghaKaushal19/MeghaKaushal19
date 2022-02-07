@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MeghaKaushal19
 - 👀 I’m interested in coding and open source.
 - 🌱 I’m currently learning c language
-- 💞️ I’m looking to collaborate on open souce project
+- 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me linkedin 
 
 
