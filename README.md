@@ -1,8 +1,4 @@
-
-<video width="320" height="240" controls>
-  <source src="Github_profile_bg.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="github_bg.png" alt="Background">
 <h1 align="center">Hi 👋, I'm Megha Kaushal</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
