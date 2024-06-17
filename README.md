@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **meghakahsuhal19.com**
 
-  <! --📄 Know about my experiences [https://drive.google.com/file/d/1kc9-onTUXvZgKzp9HFvYxcZHHqrs-ig_/view?usp=sharing](https://drive.google.com/file/d/1kc9-onTUXvZgKzp9HFvYxcZHHqrs-ig_/view?usp=sharing) --->
-
 - ⚡ Fun fact **The first computer programming language was called "Plankalkül," and it was designed by Konrad Zuse in the late 1940s. However, it was not implemented until the 1990s due to technological limitations at the time.**
 
 <h3 align="left">Connect with me:</h3>
