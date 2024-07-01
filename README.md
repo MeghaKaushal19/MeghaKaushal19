@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="500" src="github_bg.png">
+<img align="right" alt="Coding" width="300" src="github_bg.png">
 
 <h1 align="center">Hi 👋, I'm Megha Kaushal</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
