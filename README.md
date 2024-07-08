@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Coding" width="500" src="github_bg.png"> </div>
+  <img alt="Coding" width="300" src="github_bg.png"> </div>
 
 <h1 align="center">Hi 👋, I'm Megha Kaushal</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
