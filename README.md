@@ -1,10 +1,16 @@
-<div align="center">
-  <img alt="Coding" width="300" src="github_bg.png"> </div>
+
 
 <h1 align="center">Hi 👋, I'm Megha Kaushal</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meghakaushal19&label=Profile%20views&color=0e75b6&style=flat" alt="meghakaushal19" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=meghakaushal19&label=Profile%20views&color=0e75b6&style=flat" alt="meghakaushal19" /> </p>
+<div align="center">
+  <img alt="Coding" width="300" src="Meg.png"> 
+  
+  <img alt="Coding" width="300" src="github_bg.png"> 
+  
+  
+</div>
 
 - 🌱 I’m currently learning **Full-stack development**
 
