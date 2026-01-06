@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **web dev and android dev**
 
-- 📫 Reach me through **meghakaushal19@gmail.com**
+- 📫 Reach me through **megkaushal1019@gmail.com**
 
 - ⚡ Fun fact **The first computer programming language was called "Plankalkül," and it was designed by Konrad Zuse in the late 1940s. However, it was not implemented until the 1990s due to technological limitations at the time.**
 
